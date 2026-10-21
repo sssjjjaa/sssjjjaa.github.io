@@ -15,4 +15,4 @@ University of Science and Technology of China (2024 – present).
 
 ## Contact
 
-[sssjjjaa2024@gmail.com](mailto:sssjjjaa2024@gmail.com) · [GitHub](https://github.com/sssjjjaa)
+[zhenghui2024@mail.ustc.edu.cn](mailto:zhenghui2024@mail.ustc.edu.cn) · [GitHub](https://github.com/sssjjjaa)
