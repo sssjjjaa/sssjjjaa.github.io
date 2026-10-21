@@ -7,4 +7,4 @@ title: "About"
 
 University of Science and Technology of China
 
-Information and Computing Science, Class of 2024
+Information and Computing Science, Class of 2028
