@@ -4,8 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-# Hui Zheng
-
 Undergraduate in **Information and Computing Science**, School of Mathematical Sciences,
 University of Science and Technology of China (2024 – present).
 
