@@ -28,7 +28,7 @@ plugins:
 
 author:
   name   : "Hui Zheng"
-  avatar : "/assets/images/bio-photo.jpg"
+  # avatar : "/assets/images/bio-photo.jpg"   # 放好照片后取消注释
   bio    : "University of Science and Technology of China"
   links:
     - label: "GitHub"
